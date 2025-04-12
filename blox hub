@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUser/Repo/Path/AutoFarmScript.lua"))()
